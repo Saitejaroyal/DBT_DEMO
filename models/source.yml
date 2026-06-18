@@ -1,0 +1,8 @@
+sources:
+  - name: bike
+    database: CITYBIKE_TRIPDATA  
+    schema: CITYBIKE_TRIPDATA_SCHEMA  
+    tables:
+      - name: CITYBIKE_RIDES
+      - name: WEATHER
+
